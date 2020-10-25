@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
-import "fontsource-quicksand/300.css";
+import "fontsource-quicksand";
 import App from "./App";
 import { BrowserRouter as Router } from "react-router-dom";
 
